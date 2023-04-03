@@ -2,13 +2,7 @@
 
 Code for the paper :
 
-_FastCover: A Self-Supervised Learning Framework for Multi-Hop Influence Maximization in Social Networks_ by Anonymous.
-
-Implementation of an integrated efficient framework solving k-budget constrained d-dominating set problem (k-dDSP).
-
-Link: TBA.
-
-More real-world test graphs (5.88G) are found in Dropbox: https://www.dropbox.com/s/nm2ilieqf8axq2e/data.zip?dl=0.
+_FastCover: Graph Reversed Attention Framework for Maximum Coverage Problem
 
 ## Important Python Libraries
 - igraph=0.9.1
